@@ -1,0 +1,25 @@
+{
+  "SCCP": {
+    "nameTeam": "Corinthians ",
+    "fundacao": 1910,
+    "cidade": "São Paulo",
+    "estadio": "Neo Química Arena",
+    "srcImageShield": "./resized/cor.png"
+  },
+  
+  "CRF": {
+    "nameTeam": "Flamengo",
+    "fundacao": 1895,
+    "cidade": "Rio de Janeiro",
+    "estadio": "Maracanã",
+    "srcImageShield": "./resized/fla.png" 
+  },
+  
+  "SM51": {
+    "nameTeam": "Palmeiras",
+    "fundacao": 1914,
+    "cidade": "São Paulo",
+    "estadio": "Allianz Parque",
+    "srcImageShield": "./resized/pal.png"
+  }
+}
