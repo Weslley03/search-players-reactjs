@@ -20,26 +20,14 @@
   justify-content: space-around;
 }
 
+.shield.selected {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Estilo de shadow box */
+  border-color: #007bff; /* Cor da borda ao ser selecionado */
+  background-color: #f0f8ff; /* Cor de fundo ao ser selecionado (opcional) */
+}
+
 #shields div {
   text-align: center;
   cursor: pointer;
 }
 
-#inputSearch {
-  border: 1px solid #ccc; 
-  border-radius: 10px;
-  padding: 6px; 
-  font-size: 16px; 
-  width: 250px;
-  outline: none;
-  transition: border-color 0.3s; 
-}
-
-#inputSearch:focus {
-  border-color: #007BFF; 
-}
-
-#inputSearch:placeholder {
-  color: #aaa; 
-  font-style: italic;
-}

@@ -1,0 +1,94 @@
+{
+  "players": [
+    {
+      "name": "Weverton",
+      "age": 35,
+      "position": "Goleiro",
+      "matches": 250,
+      "goals": 0,
+      "assists": 5,
+      "imagePlayer": "./players/weverton_pal.png"
+    },
+    {
+      "name": "Gustavo Gomez",
+      "age": 30,
+      "position": "Zagueiro",
+      "matches": 180,
+      "goals": 20,
+      "assists": 10,
+      "imagePlayer": "./players/gustavo_gomez_pal.png"
+    },
+    {
+      "name": "Murilo",
+      "age": 26,
+      "position": "Zagueiro",
+      "matches": 85,
+      "goals": 6,
+      "assists": 4,
+      "imagePlayer": "./players/murilo_pal.png"
+    },
+    {
+      "name": "Marcos Rocha",
+      "age": 34,
+      "position": "Lateral Direito",
+      "matches": 300,
+      "goals": 15,
+      "assists": 50,
+      "imagePlayer": "./players/marcos_rocha_pal.png"
+    },
+    {
+      "name": "Felipe Anderson",
+      "age": 28,
+      "position": "Meia",
+      "matches": 90,
+      "goals": 15,
+      "assists": 12,
+      "imagePlayer": "./players/felipe_anderson_pal.png"
+    },
+    {
+      "name": "Raphael Veiga",
+      "age": 27,
+      "position": "Meia",
+      "matches": 160,
+      "goals": 50,
+      "assists": 30,
+      "imagePlayer": "./players/raphael_veiga_pal.png"
+    },
+    {
+      "name": "Gabriel Menino",
+      "age": 23,
+      "position": "Volante",
+      "matches": 110,
+      "goals": 8,
+      "assists": 15,
+      "imagePlayer": "./players/gabriel_menino_pal.png"
+    },
+    {
+      "name": "Ríos",
+      "age": 22,
+      "position": "Atacante",
+      "matches": 40,
+      "goals": 10,
+      "assists": 4,
+      "imagePlayer": "./players/rios_pal.png"
+    },
+    {
+      "name": "Rony",
+      "age": 28,
+      "position": "Atacante",
+      "matches": 150,
+      "goals": 45,
+      "assists": 20,
+      "imagePlayer": "./players/rony_pal.png"
+    },
+    {
+      "name": "Estevão",
+      "age": 18,
+      "position": "Meia",
+      "matches": 20,
+      "goals": 5,
+      "assists": 7,
+      "imagePlayer": "./players/estevao_pal.png"
+    }
+  ]
+}

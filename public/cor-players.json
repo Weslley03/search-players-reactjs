@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "name": "Memphis Depay",
+      "age": 30,
+      "position": "Atacante",
+      "matches": 340,
+      "goals": 140,
+      "assists": 60,
+      "imagePlayer": "./players/memphis_depay_cor.png"
+    },
+    {
+      "name": "Romero",
+      "age": 31,
+      "position": "Atacante",
+      "matches": 290,
+      "goals": 70,
+      "assists": 45,
+      "imagePlayer": "./players/romero_cor.png"
+    }
+  ]
+}

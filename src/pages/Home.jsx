@@ -1,10 +1,12 @@
+import { CardPlayer } from "../components/CardPlayer";
 import { TeamQueue } from "../components/teamQueue";
 
 const Home = () => {
   return (
-    <div>
+    <section>
       <TeamQueue />
-    </div>
+      <CardPlayer />
+    </section>
   )
 };
 
